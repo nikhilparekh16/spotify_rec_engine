@@ -218,4 +218,4 @@ __pycache__/
 
 # Ignore Streamlit cache or other cache folders
 .cache/
-.cache/*
+.cache/*.cache
