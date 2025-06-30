@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore environment files with secrets
+.env
+
+# Ignore pickle files
+*.pkl
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Streamlit cache or other cache folders
+.cache/
+.cache/*
